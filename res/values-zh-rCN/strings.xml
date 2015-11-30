@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">功能自动测试</string>
+   
+    <string name="str_help_report">"1.显示屏测试时间为:5-6s
+									2.前置摄像头测试时间为4-5s
+									3.后置摄像头测试时间为4-5s
+									4.回路测试时间为4-5s
+									5.录音播放测试为:10-11s
+									6.振动测试时间为:5-6s
+									7.铃音测试为：4-5s
+									8.视频播放测试为：16-18s
+									总测试时间为51-57s"</string>
+									
+    <string name="str_factorytest">工厂自动测试</string>
+
+    <!-- 测试项    begin   -->
+    <string name="lcd">显示屏测试</string>
+	    <string name="lcding">显示屏测试...</string>
+    <string name="camera_front">前摄像头测试</string>
+	    <string name="camera_fronting">前摄像头测试...</string>
+    <string name="camera_back">后摄像头测试</string>
+	    <string name="camera_backing">后摄像头测试...</string>
+    <string name="str_receiver">回路测试</string>
+   		<string name="receivering">正在回路五秒...</string>
+   	<string name="recordtest">录音播放测试</string>
+	    <string name="recording">正在录音五秒...</string>
+	    <string name="recordplaying">正在播放录音...</string>
+    <string name="vibrator">震动测试</string>
+	    <string name="vibratoring">震动测试...</string>
+    <string name="ringer">铃音测试</string>
+	    <string name="ringering">铃音测试...</string>
+    <string name="movies">视频播放测试</string>
+	    <string name="moviesing">视频播放测试...</string>
+    <!-- 测试项    end   -->
+    
+    <string name="str_testtimes">设置次数:</string>
+    <string name="str_start">开始</string>
+    <string name="str_curtesttimes">当前次数:</string>
+    <string name="str_alltesttimes">总共次数:</string>
+     <string name="str_defaulttimes">500</string>
+    <string name="str_functionover">测试完成</string>
+     <string name="str_stop">停止测试</string>
+    <string name="str_report">查看报告</string>
+    <string name="str_reportclose">关闭报告</string>
+     <string name="notice">提醒</string>
+    <string name="str_exit">确认退出测试吗？</string>
+    <string name="str_OK">确定</string>
+    <string name="str_cancel">取消</string>
+    <string name="str_test_over">测试完成！</string>
+    <string name="str_test_stop">测试完成</string>
+    <string name="str_flash_test">闪光测试</string>
+    <string name="test_Num">序号：</string>
+    <string name="test_result">结果</string>
+    <string name="test">测试</string>
+    <string name="failed">失败</string>
+    <string name="pass">通过</string>
+    <string name="exit">退出</string>
+    
+    <string name="bcamera_no_exits">后置相机不存在</string>
+    <string name="fcamera_no_exits">前置相机不存在</string>
+    <string name="camera_no_exits">未发现相机</string>
+    <string name="test_start_tip">\t当前电量低于10％，\n请插入充电器，\n否则不能进行测试。</string>
+</resources>

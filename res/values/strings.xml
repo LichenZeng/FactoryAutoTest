@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Run In</string>
+    <string name="str_help_report">"1.LCM test time:5-6s
+									2.FrontCamera test time:4-5s
+									3.BackCamera test time:4-5s
+									4.Receiver test time:4-5s
+									5.Record test time10-11s
+									6.Vibrator test time:5-6s
+									7.Ringer test time4-5s
+									8.Video test time16-18s
+									All test time:51-57s"</string>
+  
+    <string name="str_factorytest">Factory Auto Test</string>
+    <!-- Test Item begin -->
+    <string name="lcd">LCD Test</string>
+   		<string name="lcding">LCD Testing</string>
+    <string name="camera_front">Front Camera Test</string>
+    	<string name="camera_fronting">Camera Testing</string>
+    <string name="camera_back">Back Camera Test</string>
+    	<string name="camera_backing">Camera Testing</string>
+    <string name="str_receiver">Receiver Test</string>
+   		 <string name="receivering">Receiver 5s...</string>
+    <string name="recordtest">Record play Test</string>
+   		 <string name="recording">Recording 5s...</string>
+    	 <string name="recordplaying">Record Playing</string>
+    <string name="vibrator">Vibrator Test</string>
+    	<string name="vibratoring">Vibratoring</string>
+    <string name="ringer">Ringer Test</string>
+    	<string name="ringering">Ringer Testing</string>
+    <string name="movies">Play Movies Test</string>
+    	<string name="moviesing">Movies Testing</string>
+    <!-- Test Item begin -->
+   
+     <string name="str_testtimes">Set:</string>
+    <string name="str_start">Start</string>
+    <string name="str_curtesttimes">CURRENT:</string>
+    <string name="str_alltesttimes">ALL:</string>
+    <string name="str_defaulttimes">500</string>
+    <string name="str_functionover">Test Over</string>
+     <string name="str_stop">Stop Test</string>
+    <string name="str_report">View Report</string>
+    <string name="str_reportclose">Report close</string>
+    <string name="notice">Notice</string>
+    <string name="str_exit">Are you sure quit test?</string>
+    <string name="str_OK">OK</string>
+    <string name="str_cancel">Cancel</string>
+    <string name="str_test_over">Test Over!</string>
+    <string name="str_test_stop">Test Over</string>
+    <string name="str_flash_test">Flash Test</string>
+    <string name="test_Num">No.</string>
+    <string name="test_result">Result</string>
+    <string name="test">Test</string>
+    <string name="failed">Fail</string>
+    <string name="pass">Pass</string>
+    <string name="exit">Exit</string>
+    
+    <string name="bcamera_no_exits">Back Camera  not exist!</string>
+    <string name="fcamera_no_exits">Front Camera not exist!</string>
+    <string name="camera_no_exits">Not Find Camera</string>
+    <string name="test_start_tip">The current power is lower than 10%,\n please insert the charger,\n or it can not be tested.</string>
+    
+</resources>
